@@ -1,0 +1,13 @@
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\bin\Debug\Database1.mdf
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\bin\Debug\Database1_log.ldf
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\bin\Debug\FRESH V1.2.exe.config
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\bin\Debug\FRESH V1.2.exe
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\bin\Debug\FRESH V1.2.pdb
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\obj\Debug\FRESH V1.2.csproj.AssemblyReference.cache
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\obj\Debug\FRESH_V1._2.Form1.resources
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\obj\Debug\FRESH_V1._2.Form2.resources
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\obj\Debug\FRESH_V1._2.Properties.Resources.resources
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\obj\Debug\FRESH V1.2.csproj.GenerateResource.cache
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\obj\Debug\FRESH V1.2.csproj.CoreCompileInputs.cache
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\obj\Debug\FRESH V1.2.exe
+C:\Users\heind\OneDrive\Desktop\CMPG 223 SEMESTER PROJECT\FRESH V1.2\FRESH V1.2\obj\Debug\FRESH V1.2.pdb
